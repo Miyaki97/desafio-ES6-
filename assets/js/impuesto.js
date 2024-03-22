@@ -1,4 +1,4 @@
- export class Impuestos{
+export class Impuestos{
     constructor(montoBrutoAnual, deducciones){
         this._montoBrutoAnual = montoBrutoAnual
         this._deducciones = deducciones
@@ -19,4 +19,3 @@
 
 
 }
-
